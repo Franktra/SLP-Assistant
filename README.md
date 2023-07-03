@@ -1,4 +1,4 @@
-# SLP-Assistant
+# SLP-Assistant: Complete 
 
 # README.md for Speech Therapist Assistant 🗂️
 
